@@ -1,0 +1,91 @@
+
+body{
+  background-color: rgb(143, 180, 109);
+  color: white;
+}
+/*  */
+#typed{
+  font-size: 40px;
+}
+#hero{
+  position: relative;
+  background-image: url(https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/322383322_1132701610764915_4620957834970230653_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG4xJc48i4QtybIVbyJy0oxkJdUz6iS22GQl1TPqJLbYUlTiYWayC7at-_DWeiNSQGoVdsrkrQrIP0_iN0YppJn&_nc_ohc=Zsa5qfshQ_0AX8W-MTK&_nc_oc=AQki3G9oRl15B8jkoayZMWOkIY-Ks9zht1sy_qDL6bHM0lSNQP-9bu7SJ_G-TZXaXx4&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCpNal9E-luxhQqyhB04j5r8U3uQW8ux0Fh9mAMgircRQ&oe=65498FF6);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.containt{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+/*  */
+
+/* Enpericenac Start */
+.exa{
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  background-color: orange;
+}
+.exa:hover{
+  background-color: rgb(127, 4, 235);
+}
+.icon{
+  font-size: 40px;
+}
+.ig{
+  max-width: 350px;
+  max-height: 400px;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 20px;
+  }
+  .ig:hover{
+    background-color: rgb(231, 175, 70);
+  } 
+
+/* Experience End */
+
+
+/* Contacts */
+/*-----------CONTACTS START--------------*/
+.cont{
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  padding: 20px;
+  border-radius: 20px;
+
+}
+
+.pp{
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 50%;
+}
+.pp:hover{
+  background-color: blue;
+  color: white;
+}
+
+.doc{
+  font-size: 30px;
+  color: rgb(216, 15, 15);
+}
+
+/*-----------CONTACTS END--------------*/
+
+/* fottoer Start */
+footer{
+  text-align: center;
+  padding: 20px;
+  background-color: orangered;
+}
+/* footer end */
